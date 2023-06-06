@@ -6,7 +6,7 @@ O  objetivo do da formação entender porque a Blockchain é tão disruptiva. D�
 
 Durante os desafios foram criados tokens ERC20 e ERC721 e foi feito o deploy dos tokens na blockchain local com [Truffle e Ganache](https://trufflesuite.com/ganache/)
 
-A implementação dos contratos e tokens foi feita com a [ide Remix](https://remix.ethereum.org/) integrando com carteira [Metamask](https://metamask.io/)
+A implementação dos contratos e tokens foi feita com a [ide Remix](https://remix.ethereum.org/) integrando com gerenciador de carteira [Metamask](https://metamask.io/)
 
 <img src="https://github.com/P3d50/introducao-solidity/blob/master/assets/contratoDeployado.png">
 <img src="https://github.com/P3d50/introducao-solidity/blob/master/assets/totallSupplyNameSymbol.png">
