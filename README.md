@@ -8,3 +8,9 @@ Durante os desafios foram criados tokens ERC20 e ERC721 e foi feito o deploy dos
 
 A implementação dos contratos e tokens foi feita com a [ide Remix](https://remix.ethereum.org/) integrando com carteira [Metamask](https://metamask.io/)
 
+<img src="https://github.com/P3d50/introducao-solidity/blob/master/assets/contratoDeployado.png">
+<img src="https://github.com/P3d50/introducao-solidity/blob/master/assets/totallSupplyNameSymbol.png">
+<img src="https://github.com/P3d50/introducao-solidity/blob/master/assets/transfer.png">
+
+
+
